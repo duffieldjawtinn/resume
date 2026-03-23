@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Added basic retry logic for network requests
 - Noted known limitation in docs
+
+## 2026-03-23
+- Cross-checked behaviour against spec
+- Fixed minor edge case in input handling
+- Added basic usage examples to README
