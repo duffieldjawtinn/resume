@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Fixed minor edge case in input handling
 - Added basic usage examples to README
+
+## 2026-03-23
+- Consolidated duplicate helper functions
